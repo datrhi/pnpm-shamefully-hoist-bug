@@ -1,0 +1,7 @@
+{
+  "name": "shamefully-hoist-bug",
+  "dependencies": {
+    "react-native-svg": "12.1.0",
+    "node-html-parser": "^5.3.3"
+  }
+}
